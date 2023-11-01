@@ -22,7 +22,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
 
 <h2>Intake Tickets</h2>
 <p>
